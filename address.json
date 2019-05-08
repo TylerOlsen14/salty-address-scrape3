@@ -1,3 +1,4 @@
+[
 {
 "name": "TRIPP, CLAY G & JUDY A 29.71 29.98",
 "url": "http://www.utahcounty.gov/LandRecords/Property.asp?av_serial=10040014",
@@ -32,8 +33,8 @@
 "name": "UPSTREAM LTD 220.42 250.60",
 "url": "http://www.utahcounty.gov/LandRecords/Property.asp?av_serial=10900061",
 "address": "Mailing Address: 895 S CARTERVILLE RD  OREM, UT 84097-66432017201776846-1995"
-}
-{,
+},
+{
 "name": "HUMPHRIES, ROBERT F & E'LOYSE 19.51 53.84 Multiple Years",
 "url": "http://www.utahcounty.gov/LandRecords/Property.asp?av_serial=20190045",
 "address": "Mailing Address: 75 S 300 W  AMERICAN FORK, UT 84003-22092017201755604-2004"
@@ -332,12 +333,13 @@
 "name": "LOURDES BAEZA CORPORATION (ET AL) 283.47 352.38 Multiple Years",
 "url": "http://www.utahcounty.gov/LandRecords/Property.asp?av_serial=20120008",
 "address": "Mailing Address: 390 E STATE RD  AMERICAN FORK, UT 84003-25572006NV2017201781547-2005"
-}
+},
 {
 "name": "MOUNTAIN WEST DEVELOPERS LLC 21.95 69.73 Multiple Years",
 "url": "http://www.utahcounty.gov/LandRecords/Property.asp?av_serial=20380052",
 "address": "Mailing Address: 44 E 200 N  AMERICAN FORK, UT 84003-16142006-201520172017114949-2008"
-{,
+},
+{
 "name": "HUMPHRIES, ROBERT F & E'LOYSE 19.51 53.84 Multiple Years",
 "url": "http://www.utahcounty.gov/LandRecords/Property.asp?av_serial=20190041",
 "address": "Mailing Address: 75 S 300 W  AMERICAN FORK, UT 84003-22092017201755602-2004"
@@ -366,7 +368,7 @@
 "name": "FORTUNE STAR LLC 583.77 617.97",
 "url": "http://www.utahcounty.gov/LandRecords/Property.asp?av_serial=20320013",
 "address": "Mailing Address: 263 S 100 W  OREM, UT 84058-54512004-201020172017 "
-}
+},
 {
 "name": "ALPHA SELF STORAGE LC 1,082.85 1,281.49",
 "url": "http://www.utahcounty.gov/LandRecords/Property.asp?av_serial=20390046",
@@ -526,7 +528,8 @@
 "name": "FIVE PLUS ONE LLC 620.64 647.35",
 "url": "http://www.utahcounty.gov/LandRecords/Property.asp?av_serial=40200017",
 "address": "Mailing Address: %PALACIOS, JOSE  188 CATANIA WY  ROYAL PALM BEACH, FL 334111994-20072017201748319-2011"
-{,
+},
+{
 "name": "GB INDUSTRIAL ENTERPRISES LLC 1,655.92 1,727.18",
 "url": "http://www.utahcounty.gov/LandRecords/Property.asp?av_serial=30110011",
 "address": "Mailing Address: 8898 S 400 E  SALEM, UT 84653-92362005NV20172017 "
@@ -765,7 +768,8 @@
 "name": "FIVE PLUS ONE LLC 496.73 518.11",
 "url": "http://www.utahcounty.gov/LandRecords/Property.asp?av_serial=40200019",
 "address": "Mailing Address: %JOSE PALACIOS  188 CATANIA WY  ROYAL PALM BEACH, FL 334111994-20072017201748319-2011"
-{,
+},
+{
 "name": "PRUDENTIAL FEDERAL SAVINGS & LOAN ASSOCIATION1,256.37 1,310.44",
 "url": "http://www.utahcounty.gov/LandRecords/Property.asp?av_serial=40450007",
 "address": "Mailing Address: %JENSEN, C BRUCE  356 W 200 S  PROVO, UT 84601-430320172017 "
@@ -800,10 +804,12 @@
 "url": "http://www.utahcounty.gov/LandRecords/Property.asp?av_serial=20560032",
 "address": "Mailing Address: 323 N 400 E  AMERICAN FORK, UT 84003-18092002-200720172017107508-2008"
 },
+{
 "name": "FAWN DESIGN LLC 49.07 60.11",
 "url": "http://www.utahcounty.gov/LandRecords/Property.asp?av_serial=20320051",
 "address": "Mailing Address: 44 W MAIN ST  AMERICAN FORK, UT 840032004-200620172017107508-2008"
-{,
+},
+{
 "name": "LOOSLI, CURTIS W 1,389.71 1,449.51",
 "url": "http://www.utahcounty.gov/LandRecords/Property.asp?av_serial=40540001",
 "address": "Mailing Address: 10380 AVONDALE DR  CEDAR HILLS, UT 84062-85521981-198720172017 "
@@ -927,7 +933,7 @@
 "name": "FORTUNE STAR LLC 943.33 989.30",
 "url": "http://www.utahcounty.gov/LandRecords/Property.asp?av_serial=20320011",
 "address": "Mailing Address: 97 N CENTER ST  AMERICAN FORK, UT 840031997-200720172017 "
-}
+},
 {
 "name": "ZARIPOVA, GUZEL 954.72 995.81",
 "url": "http://www.utahcounty.gov/LandRecords/Property.asp?av_serial=40750009",
@@ -972,7 +978,8 @@
 "name": "UTAH DEPARTMENT OF TRANSPORTATION 46.23 57.22",
 "url": "http://www.utahcounty.gov/LandRecords/Property.asp?av_serial=10900091",
 "address": "Mailing Address: RIGHT OF WAY FOURTH FLOOR  PO BOX 148420  SALT LAKE CITY, UT 84114-84202009NV20172017114949-2008"
-{,
+},
+{
 "name": "ENZO PROFESSIONAL SERVICES LLC 5,996.96 6,465.33 Multiple Years",
 "url": "http://www.utahcounty.gov/LandRecords/Property.asp?av_serial=41020017",
 "address": "Mailing Address: 547 COLOMBIA LN  PROVO, UT 84604200520172017 "
@@ -1057,10 +1064,12 @@
 "url": "http://www.utahcounty.gov/LandRecords/Property.asp?av_serial=60130024",
 "address": "Mailing Address: 4639 W BROOKRIDGE LN  HIGHLAND, UT 840032001NV20172017"
 },
+{
 "name": "TOWNSHIP CONDOMINIUM HOMEOWNERS ASSOCIATION THE 12.93 23.33",
 "url": "http://www.utahcounty.gov/LandRecords/Property.asp?av_serial=50830017",
 "address": "Mailing Address: 363 N UNIVERSITY AV STE 101  PROVO, UT 84601-84211995NV20172017127572-2003"
-{,
+},
+{
 "name": "HICKS, CHELSEA R 1,057.24 1,102.74",
 "url": "http://www.utahcounty.gov/LandRecords/Property.asp?av_serial=40140012",
 "address": "Mailing Address: 20025 E SUPERSTITION DR  QUEEN CREEK, AZ 851422012NV2017201749516-2014"
@@ -1180,10 +1189,12 @@
 "url": "http://www.utahcounty.gov/LandRecords/Property.asp?av_serial=30710009",
 "address": "Mailing Address: 472 E 700 N  PLEASANT GROVE, UT 84062-18282007-20142017201782302-2014"
 },
+{
 "name": "ABERDEEN PROPERTIES LLC 242.41 500.07 Multiple Years",
 "url": "http://www.utahcounty.gov/LandRecords/Property.asp?av_serial=30050141",
 "address": "Mailing Address: 4490 W WINTER CIR  CEDAR HILLS, UT 8406220172017"
-{,
+},
+{
 "name": "ANDERSON, SHARON (ET AL) 1,359.93 1,418.46",
 "url": "http://www.utahcounty.gov/LandRecords/Property.asp?av_serial=30490003",
 "address": "Mailing Address: 130 E 200 N  PLEASANT GROVE, UT 840622003NV2017201744929-2002"
@@ -1567,7 +1578,8 @@
 "name": "AHIR LLC 517.20 539.46",
 "url": "http://www.utahcounty.gov/LandRecords/Property.asp?av_serial=40400020",
 "address": "Mailing Address: 150 W 300 S  PROVO, UT 84601-44122008NV2017201787885-2011"
-{,
+},
+{
 "name": "KAUFER, DONALD B & BONNIE J 28.32 246.35 Multiple Years",
 "url": "http://www.utahcounty.gov/LandRecords/Property.asp?av_serial=70560015",
 "address": "Mailing Address: 3158 E HACKAMORE ST  MESA, AZ 852131983-1985201720176443-2013"
@@ -1627,10 +1639,12 @@
 "url": "http://www.utahcounty.gov/LandRecords/Property.asp?av_serial=70820001",
 "address": "Mailing Address: 311 N 800 E  SPANISH FORK, UT 84660-19471977-198220172017112441-2008"
 },
+{
 "name": "ROGUE HOLDINGS LLC 347.55 363.84",
 "url": "http://www.utahcounty.gov/LandRecords/Property.asp?av_serial=70680009",
 "address": "Mailing Address: 248 N MAIN ST  SPANISH FORK, UT 846601997-19992017201745509-2017"
-{,
+},
+{
 "name": "RON'S TIRES INC 4,974.62 5,188.70",
 "url": "http://www.utahcounty.gov/LandRecords/Property.asp?av_serial=80320001",
 "address": "Mailing Address: %GORDON, RON & LYNETTE  15 S 300 E  PAYSON, UT 84651-22161993-199620172017 "
@@ -1800,10 +1814,12 @@
 "url": "http://www.utahcounty.gov/LandRecords/Property.asp?av_serial=50530003",
 "address": "Mailing Address: 846 S 500 W  PROVO, UT 84601-57052007201720173809-2015"
 },
+{
 "name": "STEVE HARRIS CONSTRUCTION INC 632.05 659.25",
 "url": "http://www.utahcounty.gov/LandRecords/Property.asp?av_serial=80450024",
 "address": "Mailing Address: PO BOX 243  AMERICAN FORK, UT 84003-02432012-20172017201612060-2018"
-{,
+},
+{
 "name": "PEERY, ALAN NED & ELSIE S 3,281.00 3,757.56 Multiple Years",
 "url": "http://www.utahcounty.gov/LandRecords/Property.asp?av_serial=81060015",
 "address": "Mailing Address: 230 S 600 W  PAYSON, UT 84651-24451995-19972017201749380-2012"
@@ -1838,10 +1854,12 @@
 "url": "http://www.utahcounty.gov/LandRecords/Property.asp?av_serial=60240024",
 "address": "Mailing Address: 2117 W 360 S  PROVO, UT 84601-50222017201791571-2012"
 },
+{
 "name": "BROADHEAD INVESTMENT LC 619.06 667.65 Multiple Years",
 "url": "http://www.utahcounty.gov/LandRecords/Property.asp?av_serial=90680011",
 "address": "Mailing Address: 77 W MAIN ST  SANTAQUIN, UT 84655-70832004-20062017201772904-2007"
-{,
+},
+{
 "name": "DECKER, JEFFREY A & KELLY L 24,427.08 27,724.17 Multiple Years",
 "url": "http://www.utahcounty.gov/LandRecords/Property.asp?av_serial=60520008",
 "address": "Mailing Address: 256 N MAIN ST  SPRINGVILLE, UT 84663-13541982-199320172017 "
@@ -1916,10 +1934,12 @@
 "url": "http://www.utahcounty.gov/LandRecords/Property.asp?av_serial=90170015",
 "address": "Mailing Address: 177 E 300 S  SALEM, UT 846532017201798174-2018"
 },
+{
 "name": "PROVO CITY RENTALS LLC 6.52 16.81",
 "url": "http://www.utahcounty.gov/LandRecords/Property.asp?av_serial=50330005",
 "address": "Mailing Address: 4501 BROOKSHIRE DR  PROVO, UT 84604-52512012-20142017201733285-2016"
-{,
+},
+{
 "name": "ROSE, MATTHEW LAWRENCE 60.20 71.44",
 "url": "http://www.utahcounty.gov/LandRecords/Property.asp?av_serial=70150020",
 "address": "Mailing Address: 360 E 200 S  SPANISH FORK, UT 84660-21342019NV2017201745936-2018"
@@ -2199,10 +2219,12 @@
 "url": "http://www.utahcounty.gov/LandRecords/Property.asp?av_serial=90970004",
 "address": "Mailing Address: PO BOX 481  SANTAQUIN, UT 84655-04811991-199620172017114949-2008"
 },
+{
 "name": "JEX WILLIAM R INC 45.80 60.69",
 "url": "http://www.utahcounty.gov/LandRecords/Property.asp?av_serial=81600001",
 "address": "Mailing Address: %JEX, BRYAN  45 E CENTER ST  SPANISH FORK, UT 84660-21641983-1990201720163187-2015"
-{,
+},
+{
 "name": "WILLIAMS, MICHAEL 5,531.82 6,131.83 Multiple Years",
 "url": "http://www.utahcounty.gov/LandRecords/Property.asp?av_serial=90420010",
 "address": "Mailing Address: 10152 S TRANMERE AV  SOUTH JORDAN, UT 84009200420172017107508-2008"
@@ -2271,7 +2293,8 @@
 "name": "NO LIMIT ENTERPRISES LLC 243.71 317.44 Multiple Years",
 "url": "http://www.utahcounty.gov/LandRecords/Property.asp?av_serial=60120030",
 "address": "Mailing Address: 214 S MAIN ST  SPRINGVILLE, UT 84663-18511996201720176105-2012"
-{,
+},
+{
 "name": "BROADHEAD INVESTMENT LC 4,894.77 5,494.34 Multiple Years",
 "url": "http://www.utahcounty.gov/LandRecords/Property.asp?av_serial=90680028",
 "address": "Mailing Address: 77 W MAIN ST  SANTAQUIN, UT 84655-70832000-200320172017 "
@@ -2285,7 +2308,8 @@
 "name": "SPANISH FORK CITY -6.11 0.00",
 "url": "http://www.utahcounty.gov/LandRecords/Property.asp?av_serial=70300014",
 "address": "Mailing Address: 40 S MAIN ST  SPANISH FORK, UT 84660-20312017NV2017201683875-2016"
-{,
+},
+{
 "name": "LAB, O DEAN & DEENA J (ET AL) 2,175.06 2,268.67",
 "url": "http://www.utahcounty.gov/LandRecords/Property.asp?av_serial=70970010",
 "address": "Mailing Address: 105 E VALLEY VIEW WY  WOODLAND HILLS, UT 84653-20192019NV20172017 "
@@ -2410,11 +2434,11 @@
 "url": "http://www.utahcounty.gov/LandRecords/Property.asp?av_serial=80850045",
 "address": "Mailing Address: 153 N 200 W  PAYSON, UT 84651-14241995201720173187-2015"
 },
-"name": CRAZY DAISY RENTAL PROPERTIES LLC 75.44 186.12 Multiple Years,
+{
+"name": "CRAZY DAISY RENTAL PROPERTIES LLC 75.44 186.12 Multiple Years",
 "url": "http://www.utahcounty.gov/LandRecords/Property.asp?av_serial=90910020",
 "address": "Mailing Address: 340 E MAIN ST  SANTAQUIN, UT 84655-70782006-200720172017 "
-,
-89659-2013
+},
 {
 "name": "CLARK, ALAN BLAINE 1,936.54 2,041.12 Multiple Years",
 "url": "http://www.utahcounty.gov/LandRecords/Property.asp?av_serial=70260013",
@@ -2554,7 +2578,8 @@
 "name": "CARTER, CHRIS B & GAYLYNN B 112.54 124.70",
 "url": "http://www.utahcounty.gov/LandRecords/Property.asp?av_serial=30080002",
 "address": "Mailing Address: 55 W ADAMS AV  PLEASANT GROVE, UT 840621989-19952017201771064-2018"
-{,
+},
+{
 "name": "HOLT, RONALD S & HELEN K 1,256.92 1,311.01",
 "url": "http://www.utahcounty.gov/LandRecords/Property.asp?av_serial=90860012",
 "address": "Mailing Address: 175 S 100 E  SANTAQUIN, UT 84655-8087198420172017105442-2017"
@@ -2613,43 +2638,45 @@
 "name": "COURTYARD AT JAMESTOWN ASSOCIATES LC 354.10 417.17 Multiple Years",
 "url": "http://www.utahcounty.gov/LandRecords/Property.asp?av_serial=20030018",
 "address": "Mailing Address: 155 W PARK WY  ALPINE, UT 840041988-20182017201777677-2015"
-{,
+},
+{
 "name": "MENDOZA, JOSE JESUS 22.98 45.25 Multiple Years",
 "url": "http://www.utahcounty.gov/LandRecords/Property.asp?av_serial=70430024",
 "address": "Mailing Address: 472 E 100 N  SPANISH FORK, UT 84660-18122017201739341-2016"
 },
 {
-"name": ,"PENDRAY FAMILY TRUST 07-04-1995 (ET AL) 1,322.42 1,379.33",
+"name": "PENDRAY FAMILY TRUST 07-04-1995 (ET AL) 1,322.42 1,379.33",
 "url": "http://www.utahcounty.gov/LandRecords/Property.asp?av_serial=30040012",
 "address": "Mailing Address: No Address Found"
-}
+},
 {
 "name": "LANCE, ALLIE J & ALICE D 3,860.85 4,349.67 Multiple Years",
 "url": "http://www.utahcounty.gov/LandRecords/Property.asp?av_serial=30020004",
 "address": "Mailing Address: 4003 QUAIL RIDGE DR  PROVO, UT 84604-52701981-19931996199523564-1993"
-}
+},
 {
 "name": "PENDRAY FAMILY TRUST 07-04-1995 (ET AL) 273.78 291.57 Multiple Years",
 "url": "http://www.utahcounty.gov/LandRecords/Property.asp?av_serial=30040013",
 "address": "Mailing Address: %800 NORTH & STATE LLC  C/O EDGEMARK DEVELOPMENT LLC  410 17TH ST  DENVER, CO 80202-44021981-19942003200296203-1994"
-}
+},
 {
 "name": "WOODHOUSE, DAVID THOMAS & SHERILYN ANDERSON6,001.51 6,474.38 Multiple Years",
 "url": "http://www.utahcounty.gov/LandRecords/Property.asp?av_serial=30030006",
 "address": "Mailing Address: No Address Found"
-}
+},
 {
 "name": "NEILSON, JIMMY DAVID & EDNA LOU 978.16 983.14",
 "url": "http://www.utahcounty.gov/LandRecords/Property.asp?av_serial=40070001",
 "address": "Mailing Address: 590 S 600 W  PROVO, UT 84601-42151999-200020042003136276-2003"
-}
+},
 {
 "name": "HERRMANN, STAR L 2,144.48 2,421.90 Multiple Years",
 "url": "http://www.utahcounty.gov/LandRecords/Property.asp?av_serial=40130004",
 "address": "Mailing Address: %MICHAEL CLARK SHELLEY  840 W 500 S  PROVO, UT 84601-41021981-19902000199934350-2001"
-}
+},
 {
 "name": "GRUBER, GEORGE ANDREW & NANCY BANKS 3,840.86 4,139.50 Multiple Years",
 "url": "http://www.utahcounty.gov/LandRecords/Property.asp?av_serial=40190001",
 "address": "Mailing Address: 466 S FREEDOM BLVD  PROVO, UT 84601-45071981-20032017201745648-2003"
 }
+]
