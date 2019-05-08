@@ -1,6 +1,6 @@
 const filename = '../data/posts.json'
 let posts = require(filename)
-const helper = require('../helper.js')
+const helper = require('../helpers/helper')
 
 function getPosts() {}
 function getPost(id) {}
