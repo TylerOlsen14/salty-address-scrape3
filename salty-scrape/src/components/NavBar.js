@@ -9,6 +9,7 @@ import {
   NavLink,
   Container
 } from  'reactstrap';
+import logo from '../assets/logo.jpg'
 
 class AppNavbar extends Component {
   state = {
@@ -26,6 +27,7 @@ class AppNavbar extends Component {
         <div>
           <Navbar color="dark" dark expand="sm" className="mb-5">
             <Container>
+              <img src={logo} alt=""/>
               <NavbarBrand href="/">
                 Phone Call Records
               </NavbarBrand>

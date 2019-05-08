@@ -1,14 +1,16 @@
 import React from 'react';
 import './App.css';
-import array from './address.json'
-console.log(array)
+import NavBar from './components/NavBar'
+import AddressCard from './components/AddressCard'
+import 'bootstrap/dist/css/bootstrap.min.css'
 
 function App() {
   return (
     <div className="App">
-      {array.map( scrape => (
-        <h1>{scrape.name}</h1>
-      ))}
+      <NavBar />
+
+      <AddressCard />
+
     </div>
   );
 }
