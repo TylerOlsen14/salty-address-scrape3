@@ -27,9 +27,9 @@ class AppNavbar extends Component {
         <div>
           <Navbar color="dark" dark expand="sm" className="mb-5">
             <Container>
-              <img src={logo} alt=""/>
+              <img src={logo} alt="" className="mr-5" />
               <NavbarBrand href="/">
-                Phone Call Records
+                Scraped address
               </NavbarBrand>
               <NavbarToggler onClick={this.toggle} />
               <Collapse isOpen={this.state.isOpen} navbar>

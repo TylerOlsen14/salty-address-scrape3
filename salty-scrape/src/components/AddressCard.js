@@ -1,19 +1,21 @@
 import React from 'react';
 import array from '../address.json'
 import { Card, CardText, CardBody, CardTitle, CardSubtitle, Button } from 'reactstrap'
-import style from '../App.css'
+// import UpdateAddressModal from './UpdateAddressModal'
 
 function AddressCard() {
   return (
-    <div className="App">
+    <div className="AddressCard">
       {array.map( scrape => (
-        <Card width="250px">
+        <Card className="p-3 m-3" style={{width:"300px"}}>
           <CardBody>
             <CardTitle><h4>{scrape.name}</h4></CardTitle>
-            <CardSubtitle><h5>{scrape.url}</h5></CardSubtitle>
-            <CardText>{scrape.address}</CardText>
+            <CardText className="URL"><a href={scrape.url}>{scrape.url}</a></CardText>
+            <CardText className="Address">{scrape.address}</CardText>
             <Button>Button</Button>
           </CardBody>
+          {/* <UpdateAddressModal address={address} /> */}
+          {/* <updateAddressModal address={address} refresh={this.getAddress}/> NEED to resolve how this modal works */}
         </Card>
       ))}
     </div>
