@@ -3,8 +3,8 @@ const cheerio = require("cheerio");
 const lineReader = require("line-reader");
 const fs = require("fs")
 
-lineReader.eachLine("./url.csv", function(line, last) {
-  const url = line;
+lineReader.eachLine("./data.csv", function(line, last) {
+  const url = line.slice(0, 69);
   request(url, (error, response, html) => {
     if (!error && response.statusCode == 200) {
       const $ = cheerio.load(html);
@@ -13,10 +13,11 @@ lineReader.eachLine("./url.csv", function(line, last) {
       );
       const address = td.text();
       const csv = address + ('\n')
-
-  fs.appendFile('./address.json', csv, (err) => {
+  const name = line.slice(70)
+  const set = 'name: ' + name + ('\n') + 'url: ' + url + ('\n') + 'address: ' + address + ('\n')
+  fs.appendFile('./address.json', set, (err) => {
     if (err) throw err;
-    console.log(csv)
+    console.log(set)
     console.log('saved')
   })
     }
