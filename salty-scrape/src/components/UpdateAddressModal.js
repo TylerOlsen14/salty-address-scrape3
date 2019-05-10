@@ -48,7 +48,8 @@ class UpdateAddressModal extends Component {
 
   onSubmit = async e => {
     e.preventDefault();
-    await fetch(`../../../address.json`+ this.props.scrape._id, {
+    await fetch(`http://localhost:4000`+ this.props.scrape._id, {
+    // await fetch(`../../../address.json`+ this.props.scrape._id, {
     // await fetch(`http://localhost:5000/`+ this.props.record._id, {
       method: "PUT",
       body: JSON.stringify(this.state),
