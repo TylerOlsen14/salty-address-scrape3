@@ -10,7 +10,7 @@ import {
   Input 
 } from 'reactstrap';
 
-class UpdateRecordModal extends Component {
+class UpdateAddressModal extends Component {
   state = {
     modal: false,
     name: '',
@@ -21,9 +21,9 @@ class UpdateRecordModal extends Component {
   // enterModal = async () => {
   componentWillMount = async () => {
     this.setState({
-      name: this.props.record.name,
-      url: this.props.record.url,
-      address: this.props.record.address,
+      name: this.props.scrape.name,
+      url: this.props.scrape.url,
+      address: this.props.scrape.address,
     })
   }
 
@@ -48,7 +48,8 @@ class UpdateRecordModal extends Component {
 
   onSubmit = async e => {
     e.preventDefault();
-    await fetch(`http://localhost:5000/`+ this.props.record._id, {
+    await fetch(`../../../address.json`+ this.props.scrape._id, {
+    // await fetch(`http://localhost:5000/`+ this.props.record._id, {
       method: "PUT",
       body: JSON.stringify(this.state),
       headers: {
@@ -61,9 +62,9 @@ class UpdateRecordModal extends Component {
   };
     
   newRecord = {
-    ClientName: this.state.ClientName,
-    ClientPhoneNumber: this.state.ClientPhoneNumber,
-    ClientNotes: this.state.ClientNotes
+    name: this.state.name,
+    url: this.state.url,
+    address: this.state.address
   }
 
   // componentDidMount() {
@@ -87,21 +88,21 @@ class UpdateRecordModal extends Component {
           <ModalHeader
             toggle={this.toggle}
           >
-            Update Record
+            Update Address Entry
           </ModalHeader>
           <ModalBody>
             <Form onSubmit={this.onSubmit}>
               <FormGroup onSubmit={this.handleSubmit}>
                 <Label for="record">
-                  Phone Record - Keep our conversations and discussions in order
+                  Make sure the address & name look good
                 </Label>
                 <Input 
                   type="text"
-                  name="ClientName"
+                  name="name"
                   id="item"
                   // placeholder={Client Name}
                   onChange={this.onChange}
-                  value={this.state.ClientName}
+                  value={this.state.name}
                 />
                 <Input 
                   type="string"
@@ -109,22 +110,22 @@ class UpdateRecordModal extends Component {
                   id="item"
                   // placeholder="Create Phone Number"
                   onChange={this.onChange}
-                  value={this.state.ClientPhoneNumber}
+                  value={this.state.url}
                 />
                 <Input 
                   type="text"
-                  name="ClientNotes"
+                  name="address"
                   id="item"
                   // placeholder="Create coversation record"
                   onChange={this.onChange}
-                  value={this.state.ClientNotes}
+                  value={this.state.address}
                 />
                 <Button
                   color="dark"
                   style={{marginTop: '2rem'}}
                   block
                 >
-                  Update Phone Record
+                  Update Entry
                 </Button>
               </FormGroup>
             </Form>

@@ -1,7 +1,7 @@
 import React from 'react';
 import array from '../address.json'
 import { Card, CardText, CardBody, CardTitle, CardSubtitle, Button } from 'reactstrap'
-// import UpdateAddressModal from './UpdateAddressModal'
+import UpdateAddressModal from './UpdateAddressModal'
 
 function AddressCard() {
   return (
@@ -14,8 +14,8 @@ function AddressCard() {
             <CardText className="Address">{scrape.address}</CardText>
             <Button>Button</Button>
           </CardBody>
-          {/* <UpdateAddressModal address={address} /> */}
-          {/* <updateAddressModal address={address} refresh={this.getAddress}/> NEED to resolve how this modal works */}
+          <UpdateAddressModal scrape={scrape} />
+          {/* <updateAddressModal scrape={scrape} refresh={this.getAddress}/>  */}
         </Card>
       ))}
     </div>
