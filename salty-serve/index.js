@@ -1,15 +1,24 @@
 const express = require('express');
+const bodyParser = require('body-parser');
 const router = express.Router();
 const app = express();
 const fs = require('fs');
-const port = 4000
+const port = process.env.PORT || 500
+const cors = require('cors')
+const mongoose = require('mongoose')
 
-const
+mongoose.connect('mongodb+srv://Tucker:Tucker@cluster0-tihhu.mongodb.net/test?retryWrites=true', {useNewUrlParser: true})
+// var readMe = fs.readFileSync('../address.json', 'utf8');
+// var address = JSON.parse(readMe)
 
-var readMe = fs.readFileSync('../address.json', 'utf8');
-var address = JSON.parse(readMe)
+// app.use(express.static('../address.json'))
 
-app.use(express.static('../address.json'))
+// Middleware
+app.use(bodyParser.json())
+app.use(cors())
+
+
+app. listen(port, () => console.log(`Server started on port ${port}`))
 
 app.get('/', function(req, res) {
   res.send(address)

@@ -11,11 +11,15 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "assert": "^2.0.0",
     "bootstrap": "^4.3.1",
     "cheerio": "^1.0.0-rc.3",
     "express": "^4.16.4",
+    "line-by-line": "^0.1.6",
     "line-reader": "^0.4.0",
-    "reactstrap": "^8.0.0",
+    "mongoclient": "^1.0.3",
+    "mongodb": "^2.2.33",
+    "mongoose": "^5.5.8",
     "request": "^2.88.0"
   },
   "devDependencies": {

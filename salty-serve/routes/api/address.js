@@ -8,13 +8,13 @@ router.get('/', async (req, res) => {
     .then(address => res.json(address))
 })
 
-router.get('/:url', async (req, res) => {
+router.get('/:id', async (req, res) => {
   await address
     .findById(req.params.url)
     .then(address => res.json(address))
 })
 
-router.put('/:url', (req, res) => {
+router.put('/:id', (req, res) => {
   address.findByIdAndUpdate(
     req.params.url,
     req.body,
